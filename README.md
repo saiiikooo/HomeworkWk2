@@ -11,6 +11,10 @@ Hi the project that i am dreaming and making a reality is to further our knowled
 Github: https://github.com/saiiikooo
 Website URL: https://saiiikooo.github.io/PortfolioHW/
 
+The URL of application: [Website](https://saiiikooo.github.io/Portfolio/Index.html)
+
+The URL of the GitHub repository. [Github](https://github.com/saiiikooo)
+
 
 ## Contact Info
 Email: cyrus.dato410@gmail.com
